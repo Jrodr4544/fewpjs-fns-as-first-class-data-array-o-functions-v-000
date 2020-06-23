@@ -22,3 +22,4 @@ function walkHome(dogName, dogBreed){
   const str = `Walk home with ${dogName} the ${dogBreed}`
   return str
 }
+
