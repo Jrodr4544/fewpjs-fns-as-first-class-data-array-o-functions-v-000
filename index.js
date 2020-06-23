@@ -1,3 +1,3 @@
 function wakeDog(dogName, dogBreed){
-  console.log(`Wake )
+  console.log(`Wake ${dogName})
 }
