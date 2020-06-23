@@ -8,3 +8,9 @@ function leashDog(dogName, dogBreed){
   const str = `Leash ${dogName} the ${dogBreed}`
   return str
 }
+
+function walkToPark(dogName, dogBreed){
+  // console.log(`Leash ${dogName} the ${dogBreed}`)
+  const str = `Walk ${dogName} the ${dogBreed}`
+  return str
+}
