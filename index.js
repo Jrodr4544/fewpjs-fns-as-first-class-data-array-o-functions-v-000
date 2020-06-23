@@ -1,3 +1,4 @@
+const routine = []
 function wakeDog(dogName, dogBreed){
   const str = `Wake ${dogName} the ${dogBreed}`
   return str
