@@ -36,3 +36,5 @@ function unleashDog(dogName, dogBreed){
   const str = `Unleash ${dogName} the ${dogBreed}`
   return str
 }
+
+function exercise
