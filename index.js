@@ -4,6 +4,8 @@ routine[0] = wakeDog;
 routine[1] = leashDog;
 routine[2] = walkToPark;
 routine[3] = throwFrisbee;
+routine[4] = walkHome;
+routine[5] = unleashDog;
 
 function wakeDog(dogName, dogBreed){
   const str = `Wake ${dogName} the ${dogBreed}`
