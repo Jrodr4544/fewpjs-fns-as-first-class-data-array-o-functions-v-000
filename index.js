@@ -38,9 +38,9 @@ function unleashDog(dogName, dogBreed){
 }
 
 function exerciseDog(dogName, dogBreed){
-  for(let key in routine) {
-    routine[key](dogName, dogBreed)
-  }
+  // for(let key in routine) {
+  //   routine[key](dogName, dogBreed)
+  // }
   routine = routine.map((activity) => {
 		return activity(dogName, dogBreed)
 		}
