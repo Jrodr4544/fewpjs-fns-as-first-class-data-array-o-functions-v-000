@@ -37,4 +37,4 @@ function unleashDog(dogName, dogBreed){
   return str
 }
 
-function exercise
+function exerciseDog()
