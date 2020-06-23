@@ -38,5 +38,5 @@ function unleashDog(dogName, dogBreed){
 }
 
 function exerciseDog(dogName, dogBreed){
-  
+  for()
 }
