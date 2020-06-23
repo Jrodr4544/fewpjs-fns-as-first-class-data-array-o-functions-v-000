@@ -38,7 +38,7 @@ function unleashDog(dogName, dogBreed){
 }
 
 function exerciseDog(dogName, dogBreed){
-  for(key in ) {
+  for(key in routine) {
     routine[key](dogName, dogBreed)
   }
 }
