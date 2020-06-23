@@ -4,7 +4,7 @@ function wakeDog(dogName, dogBreed){
 }
 
 function leashDog(dogName, dogBreed){
-  console.log(`Leash ${dogName} the ${dogBreed}`)
+  // console.log(`Leash ${dogName} the ${dogBreed}`)
   const str = `Leash ${dogName} the ${dogBreed}`
   return str
 }
