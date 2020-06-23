@@ -18,4 +18,4 @@ function throwFrisbee(dogName, dogBreed){
   return str
 }
 
-function 
+function walkHome
