@@ -14,3 +14,9 @@ function walkToPark(dogName, dogBreed){
   const str = `Walk to the park with ${dogName} the ${dogBreed}`
   return str
 }
+
+function throwFrisbee(dogName, dogBreed){
+  // console.log(`Leash ${dogName} the ${dogBreed}`)
+  const str = `Throw frisbee to ${dogName} the ${dogBreed}`
+  return str
+}
