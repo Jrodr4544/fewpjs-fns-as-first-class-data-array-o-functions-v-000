@@ -1,4 +1,4 @@
-const routine = []
+var routine = []
 
 routine[0] = wakeDog;
 routine[1] = leashDog;
